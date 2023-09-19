@@ -1,0 +1,83 @@
+*{
+    font-family: Helvetica;
+}
+p {
+    color: #ffffff; 
+    margin-left: 20px; 
+}
+
+b.Red{
+    color: #e50914;
+    font-size: 60px;
+    margin-right: 4px;
+}
+
+.maincontain{
+    position: relative;
+    width: 100%;
+    height: 85%;
+    background-image: url("photo.jpg");
+    background-size: cover;
+    background-position: 0%;
+    
+}
+
+.name {
+    color: #ffff;
+    font-family: Helvetica;
+    font-size: 40px;
+    left: 30px;
+    top: 15px;
+    position: absolute;
+}
+
+.nickname {
+    font-size: 75px;
+    color: #ffffff;
+    left: 30;
+    top: 33%;
+    position: absolute;
+}
+
+.introduce{
+    left: 30px;
+    bottom: 100px;
+    position: absolute;
+}
+
+.intro-head{
+    color: #ffffff;
+    font-size: 24px;
+    margin-bottom: 10px;
+
+}
+
+.intro-main{
+    color: #ffffff;
+    margin-right: 55%;
+    font-size: 20px;
+    
+}
+
+.videosetting{
+    text-align: center;
+}
+
+.videotag{
+    color: #ffffff;
+    font-size: 24px;
+    margin-right: 65%;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+video {
+    width: 75%;
+}
+
+h3 {
+    color: #ffffff; 
+    margin: 50px; 
+    text-align: center;
+    font-size: 200px;
+}
